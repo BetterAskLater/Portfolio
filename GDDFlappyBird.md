@@ -15,7 +15,7 @@
 **Референсы и вдохновение**: 
 трубы: как в марио
 
-<img width="900" height="592" alt="Image" src="https://github.com/user-attachments/assets/32157ef4-c0ee-4ea0-8025-b5044618d774" />
+<img width="900" height="592" alt="Image" src="https://e7.pngegg.com/pngimages/242/386/png-clipart-super-mario-bros-3-super-mario-world-mario-bros-angle-text.png" />
 
 Механика подпрыгивания птички = подкидывание мячика в пинг-понг
 ## Механики: 
